@@ -3,7 +3,6 @@
 -Stephen Curry
 <hr>
 
-
 blog : https://velog.io/@bhyun08 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=skrxk)](https://solved.ac/skrxk)
