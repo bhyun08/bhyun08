@@ -13,6 +13,6 @@
 </a>   
 <br>
 <a href="mailto:nbhyun0329@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/nbhyun0329@gmail.com 이메일 주소입니다 💌-white?style=social&logo=gmail&logoColor=#EA4335F">
+<img src="https://img.shields.io/badge/nbhyun0329@gmail.com 이메일 주소입니다 📮-white?style=social&logo=gmail&logoColor=#EA4335F">
 </a>       
 
