@@ -15,7 +15,7 @@ Who Am I 🤔
 차별성을 추구하는 창의적이고 독보적인 개발자가 되기 위해노력합니다. ⛓️‍💥
 
 I am a first-year high school student studying **Backend**. <br>
-Striving to be a **creative** and **unique** developer who pursues distinctiveness.
+Striving to be a **creative** and **unique** developer who pursues **distinctiveness**.
 
 About Me ⛹🏽‍♂️
 ---
