@@ -1,8 +1,13 @@
 ## 나병현(Byunghyun Na)🔥
 
-<strong>“Success is not an accident, success is actually a choice.”</strong><br>
+<strong> 
+  
+``` 
+“Success is not an accident, success is actually a choice.
 
 -Stephen Curry
+``` 
+</strong>
 
 Who Am I 🤔
 ---
