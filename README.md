@@ -4,7 +4,7 @@
 -Stephen Curry
 <hr>
 
-blog : https://velog.io/@bhyun08 <br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=skrxk)](https://solved.ac/skrxk)
+<img src="https://img.shields.io/badge/공부한 내용을 velog에 정리하고 있습니다 📚-white?style=social&logo=velog&logoColor=#20C997">
+<img src="https://img.shields.io/badge/instagram 링크입니다 📞-white?style=social&logo=instagram&logoColor=#E4405F">
+<img src="https://img.shields.io/badge/gmail 주소입니다 💌-white?style=social&logo=gmail&logoColor=#EA4335F">
 
