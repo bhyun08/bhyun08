@@ -2,7 +2,7 @@
 
 <strong> 
   
-``` 
+```ruby
 “Success is not an accident, success is actually a choice."
 
 -Stephen Curry
