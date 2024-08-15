@@ -3,9 +3,9 @@
 <strong> 
   
 ```kotlin
-“Success is not an accident, success is actually a choice."
+“Success is not an accident, Success is actually a Choice."
 
--Stephen Curry
+- Stephen Curry
 ``` 
 </strong>
 
