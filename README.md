@@ -2,7 +2,7 @@
 
 <strong> 
   
-```ruby
+```kotlin
 “Success is not an accident, success is actually a choice."
 
 -Stephen Curry
