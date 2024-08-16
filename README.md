@@ -24,7 +24,7 @@ About Me ⛹🏽‍♂️
 </a>            
 <br>
 <a href="https://www.instagram.com/bald_hyun/" target="_blank">
-<img src="https://img.shields.io/badge/@bald_hyun 인스타그램 아이디 입니다 📞-white?style=social&logo=instagram&logoColor=#E4405F">
+<img src="https://img.shields.io/badge/@bald__hyun 인스타그램 아이디 입니다 📞-white?style=social&logo=instagram&logoColor=#E4405F">
 </a>   
 <br>
 <a href="mailto:nbhyun0329@gmail.com" target="_blank">
